@@ -12,5 +12,5 @@ function tocaSomClap(){
 //chamada ou invocação da função tocaSomClap ao clicar no botão
 document.querySelector('.tecla_clap').onclick = tocaSomClap;
 
-document.querySelectorAll('.tecla)');
-
+const listaDeTeclas = document.querySelectorAll('.tecla)');
+listaDeTeclas{}
